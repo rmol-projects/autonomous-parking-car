@@ -2,6 +2,7 @@
 
 An autonomous car prototype capable of identifying parking spaces and performing self-parking maneuvers using various sensors, actuators, and an STM32 microcontroller.  
 This project showcases basic robotics, control systems, and embedded programming applied to autonomous driving.
+![image](https://github.com/user-attachments/assets/b8eb420d-4c0f-44c4-a4ec-5bb96f19fa06)
 
 ---
 
