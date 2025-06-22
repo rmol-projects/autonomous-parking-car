@@ -40,7 +40,6 @@ This project showcases basic robotics, control systems, and embedded programming
 
 ##  Demo Video
 
-![image](https://github.com/user-attachments/assets/0252a60c-140c-469e-9e7b-c6e6673af27a)
 
 
 ---
