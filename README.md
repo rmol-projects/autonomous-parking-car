@@ -45,6 +45,4 @@ https://youtube.com/shorts/lFJc5HF0pDM
 
 ---
 
-## 📁 Project Structure
-
 
